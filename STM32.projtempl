@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<templategroup>
+  <description>STM32 project templates for f0/1/2/3/4/7 mcu</description>
+  <displayname>STM32</displayname>
+</templategroup>
+
+
